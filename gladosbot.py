@@ -26,7 +26,7 @@ BAD_WORDS = [
     "cretino","nojento","doente","lixo","verme","boçal","palhaço",
     "canalha","safado","safada","vagabundo","vagabunda","corno","corna","buceta","pau","pinto","rola","cu","cú","cusao","cusão","bunda",
     "rabeta","piroca","xoxota","grelo","chupeta","punheta","siririca",
-    "gozada","gozar","meter","transar","foder","fudendo","comer","estupro","estuprador","estuprada","violacao","violação","abuso sexual",
+    "gozada","gozar","meter","transar","foder","fudendo","estupro","estuprador","estuprada","violacao","violação","abuso sexual",
     "assedio","assédio","pedofilia","pedofilo","pedófilo","pedofila",
     "exploracao sexual","exploração sexual","nigger","niga","negro imundo","macaco","preto imundo",
     "viado","bicha","traveco","sapatão","gay lixo",
@@ -34,7 +34,7 @@ BAD_WORDS = [
     "arma","fuzil","ak47","pistola","revólver","facada","bomba",
     "explodir","genocidio","genocídio","massacre","chacina","suicidio","suicídio","se matar","me matar","morrer logo",
     "me cortar","auto mutilacao","automutilação","smt","pornografia infantil","cp","zoofilia","necrofila","necrofília",
-    "canibal","canibalismo","epstein","diddy","jeffrey","raulzito","capitão hunter","hitler","nigga"
+    "canibal","canibalismo","epstein","diddy","jeffrey","raulzito","capitão hunter","hitler","nigga","carai"
 
 ]
 
